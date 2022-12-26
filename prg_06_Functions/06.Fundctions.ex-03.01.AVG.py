@@ -17,4 +17,6 @@ def avg(x,y):
 x = 128
 y = 255
 z = avg(x,y)
-print ("The average of",x,"and", y, "is", z)
+# print ("The average of",x,"and", y, "is", z)
+
+avg(x,y)

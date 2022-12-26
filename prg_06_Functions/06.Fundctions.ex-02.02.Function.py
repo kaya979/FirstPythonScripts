@@ -16,9 +16,9 @@
 
 
 def my_function(a):                  #here you define a function
-    print("Hello" + a + "!")           #this function prints hello +a+!
+    print("Hello " + a + "!")           #this function prints hello +a+!
     #my_function("World!")
-    print("hello world")                #it can also have more print commands under it
+    print("Welcome to Python3.")                #it can also have more print commands under it
 
 my_function("Kaya")                       #here we give the command to write out this function
 my_function("Antonie")

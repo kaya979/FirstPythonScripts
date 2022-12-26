@@ -12,6 +12,6 @@ print('You are '+ y + ' years old.')            #here we print out the message Y
 # or
 
 print('Hello ' + x + ". You are " + y + " years old. ")
-print(x + ": this is data of type", type(x))
-print(y + ", this is data of type", type(y))
+print(x + ": this input is data of type", type(x))
+print(y + ", this input is data of type", type(y))
 
