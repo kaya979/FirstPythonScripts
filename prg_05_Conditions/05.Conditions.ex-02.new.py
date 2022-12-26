@@ -2,7 +2,7 @@
 # x is user input
 # we create a loop, and it will continue if the input user is not y
 
-
+print("Hey, let's play a guessing game, any number under 100:")
 y = 100         
 x = 0
 while x != 100:                     # != means ; while x is not equal to 100:

@@ -1,3 +1,3 @@
-arr = ["Erik", "Antonio", "Sameer", "Antony", "Kaya"]
-for i in arr:
+array = ["Erik", "Antonio", "Sameer", "Anthony", "Kaya"]
+for i in array:
     print(i)

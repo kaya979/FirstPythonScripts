@@ -8,7 +8,6 @@
 #Print the text “Value 3: <value 3 here>”.
 
 
-
 z = "7"
 print("Value 1: " + z )
 z = "Type A"
